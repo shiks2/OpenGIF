@@ -1,0 +1,18 @@
+# --- Global ---
+.DS_Store
+.env
+
+# --- Backend (Go) ---
+backend/main
+backend/seed
+backend/meili_data/
+backend/*.exe
+
+# --- Frontend (Flutter) ---
+frontend/build/
+frontend/.dart_tool/
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+frontend/.idea/
+frontend/android/.gradle
+frontend/ios/Flutter/Generated.xcconfig
